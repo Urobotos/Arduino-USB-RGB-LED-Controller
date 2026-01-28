@@ -126,3 +126,5 @@ Inspired by hardware-level RGB control and simple USB-based tools for makers.<br
 
 Feel free to open issues or pull requests if you want to improve or extend the project.
 
+<br>
+
