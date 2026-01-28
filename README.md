@@ -4,7 +4,7 @@
     <img width="25%" src="images/3.jpeg">
 </p>
 
-# Arduino-USB-RGB-LED-Controller
+# Arduino USB RGB LED Controller
 
 Android application for controlling **3× built-in RGB LEDs** for 3rd party **Arduino Nano Super Mini** via **USB OTG**.
 
