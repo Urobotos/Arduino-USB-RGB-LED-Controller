@@ -115,7 +115,6 @@ Or generate a release APK/AAB for distribution.
 ## 📄 License
 
 MIT License
-
 <br>
 
 ---
