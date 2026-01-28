@@ -35,12 +35,7 @@ The app allows you to set RGB color, global brightness, enable/disable individua
 
 ### Hardware
 
-* Arduino-compatible board with **3 built-in RGB LEDs**, e.g.:
-
-  * Arduino Nano V3 (compatible)
-  * Arduino Super Mini (common Nano-compatible clone)
-* Firmware that listens for RGB values over USB serial
-
+* Arduino Nano SuperMini board with **3 built-in RGB LEDs**
 > ⚠️ Note: The board name "Super Mini" is commonly used by vendors and does not refer to an official Arduino product.
 
 ---
