@@ -41,6 +41,8 @@ The app allows you to set RGB color, global brightness, enable/disable individua
 * Arduino Nano SuperMini board with **3 built-in RGB LEDs**
 > ⚠️ Note: The board name "Super Mini" is commonly used by vendors and does not refer to an official Arduino product.
 
+<br>
+
 ---
 
 ## 🔌 USB Connection
@@ -51,6 +53,8 @@ The app allows you to set RGB color, global brightness, enable/disable individua
 4. The status text should show **USB: Connected**
 
 If the device is disconnected or permission is revoked, the app will update the status automatically.
+
+<br>
 
 ---
 
@@ -64,6 +68,8 @@ If the device is disconnected or permission is revoked, the app will update the 
 
 If brightness is set to 0% or all LEDs are disabled, the app will turn all LEDs off.
 
+<br>
+
 ---
 
 ## 🐞 Debug Console
@@ -71,6 +77,8 @@ If brightness is set to 0% or all LEDs are disabled, the app will turn all LEDs 
 * Expandable debug console is available at the bottom of the UI
 * Shows USB events, permissions, and sent values
 * Useful for development and troubleshooting
+
+<br>
 
 ---
 
@@ -91,6 +99,8 @@ You can build the app using **Android Studio**:
 
 Or generate a release APK/AAB for distribution.
 
+<br>
+
 ---
 
 ## 📦 Distribution
@@ -98,11 +108,15 @@ Or generate a release APK/AAB for distribution.
 * Planned for **GitHub Releases**
 * Planned for **Google Play Store** (free, no ads)
 
+<br>
+
 ---
 
 ## 📄 License
 
 MIT License
+
+<br>
 
 ---
 
