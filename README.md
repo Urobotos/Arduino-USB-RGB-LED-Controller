@@ -1,6 +1,7 @@
 <p align="center" width="100%">
-    <img width="50%" src="images/lcd_countdown.jpg">
-    <img width="50%" src="images/progress_bar.jpg">
+    <img width="50%" src="images/1.jpg">
+    <img width="50%" src="images/2.jpg">
+    <img width="50%" src="images/3.jpg">
 </p>
 
 
