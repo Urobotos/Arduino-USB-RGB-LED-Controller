@@ -1,3 +1,9 @@
+<p align="center" width="100%">
+    <img width="50%" src="images/lcd_countdown.jpg">
+    <img width="50%" src="images/progress_bar.jpg">
+</p>
+
+
 # Arduino-USB-RGB-LED-Controller
 
 Android application for controlling **3× built-in RGB LEDs** on Arduino-compatible boards (such as 3dparty **Arduino Nano Super Mini** ) via **USB OTG**.
