@@ -28,6 +28,17 @@ The app allows you to set RGB color, global brightness, enable/disable individua
 
 ---
 
+## Project structure
+
+- android-app/ — Android application (Jetpack Compose)
+- arduino/ — Arduino firmware for SuperMini / Nano-compatible board
+- images/ — photos and screenshots
+
+
+<br>
+
+---
+
 ## 📱 Requirements
 
 ### Android
