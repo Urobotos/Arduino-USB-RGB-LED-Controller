@@ -115,15 +115,14 @@ Or generate a release APK/AAB for distribution.
 ## 📄 License
 
 MIT License
+
 <br>
 
 ---
 
 ## 🙌 Acknowledgements
 
-Inspired by hardware-level RGB control and simple USB-based tools for makers.
-
----
+Inspired by hardware-level RGB control and simple USB-based tools for makers.<br>
 
 Feel free to open issues or pull requests if you want to improve or extend the project.
 
