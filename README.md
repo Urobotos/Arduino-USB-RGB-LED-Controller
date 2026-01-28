@@ -1,7 +1,7 @@
 <p align="center" width="100%">
-    <img width="50%" src="images/1.jpeg">
-    <img width="50%" src="images/2.jpeg">
-    <img width="50%" src="images/3.jpeg">
+    <img width="30%" src="images/1.jpeg">
+    <img width="30%" src="images/2.jpeg">
+    <img width="30%" src="images/3.jpeg">
 </p>
 
 
