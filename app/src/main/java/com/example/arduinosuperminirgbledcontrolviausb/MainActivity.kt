@@ -142,7 +142,7 @@ fun RgbController(
 ) {
     val isConnected by (usbManager as UsbSerialManager).connected
     var soloLedIndex by remember { mutableStateOf<Int?>(null) }
-    var ledEnabled = remember {
+    val ledEnabled = remember {
         mutableStateListOf(true, true, true)
     }
 
@@ -360,9 +360,6 @@ fun RgbControllerPreview() {
         )
     }
 }
-
-
-//test
 
 
 
