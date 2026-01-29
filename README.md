@@ -54,7 +54,7 @@ The Android app communicates with the Arduino onboard RGB LEDs on the pin `D2` v
 ## ⚙️ Arduino Firmware Setup:
 
 📂 Download `.ino` file from source: `arduino/Arduino-USB-RGB-LED-Controller.ino` <br>
-Select and open downloaded `Arduino-USB-RGB-LED-Controller.ino` file in IDE
+📂 Select and open downloaded `Arduino-USB-RGB-LED-Controller.ino` file in IDE
 
 In **Arduino IDE**, select:
 
@@ -66,7 +66,15 @@ In **Arduino IDE**, select:
 
 Upload the sketch **before** connecting the board to the Android app.
 
+<br>
+
 ---
+
+## 🖼 Images
+
+Board photos and app screenshots can be found in:
+
+<img width="25%" src="images/app_screenshot">
 
 <br>
 
