@@ -70,7 +70,7 @@ In **Arduino IDE**, select:
   - Type `neopixel` in the search field and search for: `Adafruit NeoPixel (from Adafruit)` ➜ Click the install button <br><br>
 
 
-- **Clic on Upload button <img width="2%" src="images/UNO_Upload.png">**
+- Now you can click the **Upload button** in the IDE &nbsp;<img width="2%" src="images/UNO_Upload.png">&nbsp; to send the firmware to the Arduino board.
 
 
 
