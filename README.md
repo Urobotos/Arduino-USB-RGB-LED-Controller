@@ -94,21 +94,42 @@ android-app/
 
 *All Gradle commands must be executed inside this folder!* <br><br>
 
-🛠️ Option 1: Build APK using command line (Gradle)
 
-1️⃣ Open terminal / PowerShell
+**🛠️ Option A) Build APK using command line (Gradle)**
 
-Navigate to the project root and then into android-app:
+- 1️⃣ **Open terminal / PowerShell** <br>
+Navigate to the project root and then into android-app: 
 
 ```
 cd android-app
 ```
 
+- 2️⃣ **Build debug APK** <br>
+Run: 
+
+```
+./gradlew assembleDebug
+```
+
+On Windows, you can also use:
+
+```
+gradlew assembleDebug
+```
+
+- 3️⃣ **Locate the APK**
+After a successful build, the APK will be created at:
+
+```
+android-app/app/build/outputs/apk/debug/app-debug.apk
+```
 
 
 
 
-<br><br
+
+
+<br><br>
 
 ---
 
