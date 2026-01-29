@@ -139,12 +139,11 @@ You can manually install this APK on your Android phone. <br>
 ### 🧩 Option B): Open project in Android Studio (recommended)
 
 1️⃣ Open Android Studio <br>
-2️⃣ Select Open <br>
-3️⃣ Choose the android-app folder <br>
-4️⃣ Wait for Gradle sync to finish <br>
-5️⃣ Connect your Android phone via USB (with USB debugging enabled) <br>
-6️⃣ Check in LogCat (cat icon in the left panel) that your phone is connected to Android Studio <br>
-7️⃣ Click Run ▶️ <br>
+2️⃣ Select Open and choose the `android-app` folder <br>
+3️⃣ Wait for Gradle sync to finish <br>
+4️⃣ Connect your Android phone via USB (with USB debugging enabled) <br>
+5️⃣ Check in `LogCat` (cat icon in the left panel) that your phone is connected to Android Studio <br>
+6️⃣ Click Run ▶️ <br>
 
 Android Studio will build and install the app automatically.
 
