@@ -70,6 +70,13 @@ Upload the sketch **before** connecting the board to the Android app.
 
 ---
 
+## ⚙️ Arduino Firmware Setup:
+cccccvxbxb
+
+<br>
+
+---
+
 ## 🖼 Images
 
 Board photos and app screenshots can be found in:
