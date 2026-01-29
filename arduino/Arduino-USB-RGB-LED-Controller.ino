@@ -4,12 +4,12 @@
 // The Arduino listens on USB serial (115200 baud)
 // 
 // Command format:
-// L<index>:<R>,<G>,<B>
+//   L<index>:<R>,<G>,<B>
 //
 // Example:
-// L0:255,0,0   → LED 0 red
-// L1:0,255,0   → LED 1 green
-// L2:0,0,255   → LED 2 blue
+//   L0:255,0,0   → LED 0 red
+//   L1:0,255,0   → LED 1 green
+//   L2:0,0,255   → LED 2 blue
 //
 ////////////////////////////////////////////////////
 
