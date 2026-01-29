@@ -142,7 +142,7 @@ You can manually install this APK on your Android phone. <br>
 2️⃣ Select Open <br>
 3️⃣ Choose the android-app folder <br>
 4️⃣ Wait for Gradle sync to finish <br>
-5️⃣ Connect your Android phone via USB (USB debugging enabled) <br>
+5️⃣ Connect your Android phone via USB (with USB debugging enabled) <br>
 6️⃣ Click Run ▶️ <br>
 
 Android Studio will build and install the app automatically.
