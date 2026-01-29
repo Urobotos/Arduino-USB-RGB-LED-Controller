@@ -53,18 +53,24 @@ The Android app communicates with the Arduino onboard RGB LEDs on the pin `D2` v
 
 ## ⚙️ Setup for Arduino Firmware:
 
-📂 Download `.ino` file from source: `arduino/Arduino-USB-RGB-LED-Controller.ino` <br>
-📂 Open downloaded `Arduino-USB-RGB-LED-Controller.ino` file in IDE
+📂 Download `.ino` file from path: `arduino/Arduino-USB-RGB-LED-Controller.ino` <br>
+📂 Open downloaded `Arduino-USB-RGB-LED-Controller.ino` file in IDE <br><br>
+
+Connect your Arduino SuperMini board to the PC via USB <br><br>
 
 In **Arduino IDE**, select:
 
 - **Board:** `Arduino Nano`
 - **Processor:** `ATmega328P (Old Bootloader)`
-- **Port:** (the COM port where the board appears)
+- **Port:** (the COM port where the board appears)<br><br>
 
-⚠️ Using the *Old Bootloader* is important for many Nano / SuperMini clones.
 
-Upload the sketch **before** connecting the board to the Android app.
+- **Install Adafruit Neopixel Library to the IDE:**
+  - In the left column, click on the 📓 library icon,
+  - Type neopixel to search field and search for: `Adafruit NeoPixel (from Adafruit)` 
+
+
+
 
 <br>
 
