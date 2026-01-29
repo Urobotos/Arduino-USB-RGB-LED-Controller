@@ -6,23 +6,9 @@
 
 # Arduino USB RGB LED Controller
 
-Android application for controlling **3× built-in RGB LEDs** on a 3rd party **Arduino Nano Super Mini** via **USB OTG**.
+Android application + Arduino firmware for controlling **3× built-in RGB LEDs** on a 3rd party **Arduino Super Mini** via USB.
 
-The app allows you to set RGB color, global brightness, enable/disable individual LEDs, and send values directly to the Arduino board over USB serial communication, which controls the three RGB LEDs on the pin `D2`.
-
-<br>
-
----
-
-## ✨ Features
-
-* 🎨 RGB color control (Red / Green / Blue sliders)
-* 🔆 Global brightness control (0–100%)
-* 💡 Enable / disable individual LEDs
-* 🔁 Solo mode (long-press an LED to enable only that one)
-* 🔌 USB connection status indicator
-* 🐞 Built-in debug console (expandable)
-* 🚫 No ads, no tracking, no data collection
+The Android app communicates with the Arduino onboard RGB LEDs on the pin `D2` via USB OTG and sends RGB + brightness values in real time.
 
 <br>
 
@@ -34,6 +20,19 @@ The app allows you to set RGB color, global brightness, enable/disable individua
 - arduino/ — Arduino firmware for SuperMini / Nano-compatible board
 - images/ — photos and screenshots
 
+<br>
+
+---
+
+## ✨ Features
+
+* 🎨 RGB color control (Red / Green / Blue sliders)
+* 🔆 Global brightness control (0–100%)
+* 💡 Enable / disable individual LEDs
+* 🔁 Solo LED mode (long-press)
+* 🔌 USB connection status
+* 🐞 Debug console (expandable)
+* 🚫 No ads, no tracking, no data collection
 
 <br>
 
@@ -41,16 +40,33 @@ The app allows you to set RGB color, global brightness, enable/disable individua
 
 ## 📱 Requirements
 
-### Android
-
 * Android device with **USB OTG support**
 * **USB OTG adapter or OTG cable** (required)
 * Android 8.0 (API 26) or newer recommended
-
-### Hardware
-
-* Arduino Nano SuperMini board with **3 built-in RGB LEDs**
+* Arduino connected via USB
+* Arduino SuperMini board with **3 built-in RGB LEDs**
 > ⚠️ Note: The board name "Super Mini" is commonly used by 3rd party vendors and does not refer to an official Arduino product.
+
+<br>
+
+---
+
+## ⚙️ Arduino Firmware Setup:
+
+📂 Download `.ino` file from source: `arduino/Arduino-USB-RGB-LED-Controller.ino`
+Select and open downloaded `Arduino-USB-RGB-LED-Controller.ino` file in IDE
+
+In **Arduino IDE**, select:
+
+- **Board:** `Arduino Nano`
+- **Processor:** `ATmega328P (Old Bootloader)`
+- **Port:** (the COM port where the board appears)
+
+⚠️ Using the *Old Bootloader* is important for many Nano / SuperMini clones.
+
+Upload the sketch **before** connecting the board to the Android app.
+
+---
 
 <br>
 
