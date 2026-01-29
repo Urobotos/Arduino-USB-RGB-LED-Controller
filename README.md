@@ -122,6 +122,14 @@ gradlew assembleDebug
 ```
 
 <br>
+In the Android Studio (UI version of assembling APK):<br>
+Click on the top menu ☰ <br>
+
+```
+Select Build ➜ Generate App Bundles or APKs ➜ Generate APKs
+```
+
+<br>
 
 3️⃣ **Locate the APK:** <br>
 After a successful build, the APK will be created at:
