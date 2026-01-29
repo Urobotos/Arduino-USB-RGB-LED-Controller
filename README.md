@@ -136,7 +136,7 @@ You can manually install this APK on your Android phone. <br>
 
 <br>
 
-### 🧩 Option B): Open project in Android Studio (recommended)
+### 🛠️ Option B): Open project in Android Studio (recommended)
 
 1️⃣ Open Android Studio <br>
 2️⃣ Select Open and choose the `android-app` folder <br>
