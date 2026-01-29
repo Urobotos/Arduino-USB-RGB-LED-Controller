@@ -139,7 +139,7 @@ android-app/app/build/outputs/apk/debug/app-debug.apk
 ```
 
 <br>
-You can manually install this APK on your Android phone. <br>
+After that, You can manually install this APK on your Android phone. <br>
 
 *(⚠️ Note: You may need to enable "Install unknown apps" on your Android device)*
 
