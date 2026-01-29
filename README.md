@@ -117,19 +117,18 @@ On Windows, you can also use:
 gradlew assembleDebug
 ```
 
-- 3️⃣ **Locate the APK**
+- 3️⃣ **Locate the APK** <br>
 After a successful build, the APK will be created at:
 
 ```
 android-app/app/build/outputs/apk/debug/app-debug.apk
 ```
 
+You can manually install this APK on your Android phone. <br><br>
 
+⚠️ *(Note: You may need to enable "Install unknown apps" on your Android device)*
 
-
-
-
-<br><br>
+<br>
 
 ---
 
