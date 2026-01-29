@@ -70,7 +70,7 @@ In **Arduino IDE**, select:
   - Type `neopixel` in the search field and search for: `Adafruit NeoPixel (from Adafruit)` ➜ Click the install button <br><br>
 
 
-- **<img width="4%" src="images/UNO_Upload.png"> Clic on Upload button**
+- **Clic on Upload button <img width="2%" src="images/UNO_Upload.png">**
 
 
 
