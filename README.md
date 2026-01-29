@@ -54,7 +54,7 @@ The Android app communicates with the Arduino onboard RGB LEDs on the pin `D2` v
 ## ⚙️ Setup for Arduino Firmware:
 
 📂 Download `.ino` file from path: `arduino/Arduino-USB-RGB-LED-Controller.ino` <br>
-📂 Open downloaded `Arduino-USB-RGB-LED-Controller.ino` file in IDE <br><br>
+📂 Open downloaded `Arduino-USB-RGB-LED-Controller.ino` file in Arduino IDE <br><br>
 
 Connect your Arduino SuperMini board to the PC via USB <br><br>
 
