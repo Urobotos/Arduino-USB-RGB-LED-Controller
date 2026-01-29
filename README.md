@@ -165,7 +165,7 @@ If the device is disconnected or permission is revoked, the app will update the 
 
 ## 🖼 App Screenshots:
 
-USB Disconnected, USB permission, USB Connected, Debug Console:
+USB Disconnected, USB Permission, USB Connected and Debug Console:
 
 <p align="center" width="100%">
     <img width="20%" src="images/screenshot_disconnected.jpg">
