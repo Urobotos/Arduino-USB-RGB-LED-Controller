@@ -6,9 +6,9 @@
 
 # Arduino USB RGB LED Controller
 
-Android application for controlling **3× built-in RGB LEDs** for 3rd party **Arduino Nano Super Mini** via **USB OTG**.
+Android application for controlling **3× built-in RGB LEDs** on a 3rd party **Arduino Nano Super Mini** via **USB OTG**.
 
-The app allows you to set RGB color, global brightness, enable/disable individual LEDs, and send values directly to the board over USB serial communication, which controls the three RGB LEDs on the pin `D2`.
+The app allows you to set RGB color, global brightness, enable/disable individual LEDs, and send values directly to the Arduino board over USB serial communication, which controls the three RGB LEDs on the pin `D2`.
 
 <br>
 
@@ -50,7 +50,7 @@ The app allows you to set RGB color, global brightness, enable/disable individua
 ### Hardware
 
 * Arduino Nano SuperMini board with **3 built-in RGB LEDs**
-> ⚠️ Note: The board name "Super Mini" is commonly used by vendors and does not refer to an official Arduino product.
+> ⚠️ Note: The board name "Super Mini" is commonly used by 3rd party vendors and does not refer to an official Arduino product.
 
 <br>
 
