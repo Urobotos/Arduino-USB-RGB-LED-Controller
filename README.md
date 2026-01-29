@@ -132,10 +132,9 @@ android-app/app/build/outputs/apk/debug/app-debug.apk
 <br>
 You can manually install this APK on your Android phone. <br>
 
-⚠️ *(Note: You may need to enable "Install unknown apps" on your Android device)*
+*(⚠️ Note: You may need to enable "Install unknown apps" on your Android device)*
 
-
-<br><br>
+<br>
 
 ### 🧩 Option B): Open project in Android Studio (recommended)
 
@@ -150,9 +149,16 @@ Android Studio will build and install the app automatically.
 
 <br>
 
+## 🔌 USB Connection of Android to Arduino board:
 
+1. Connect the Arduino board to your Android device using a **USB OTG adapter/cable**
+2. Launch the app
+3. Grant USB permission when prompted
+4. The status text should show **USB: Connected**
 
+If the device is disconnected or permission is revoked, the app will update the status automatically.
 
+<br>
 
 ---
 
@@ -161,19 +167,6 @@ Android Studio will build and install the app automatically.
 Board photos and app screenshots can be found in:
 
 <img width="25%" src="images/app_screenshot">
-
-<br>
-
----
-
-## 🔌 USB Connection
-
-1. Connect the Arduino board to your Android device using a **USB OTG adapter/cable**
-2. Launch the app
-3. Grant USB permission when prompted
-4. The status text should show **USB: Connected**
-
-If the device is disconnected or permission is revoked, the app will update the status automatically.
 
 <br>
 
