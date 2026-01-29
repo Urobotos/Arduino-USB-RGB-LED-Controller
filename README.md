@@ -73,10 +73,10 @@ The Android app communicates with the Arduino onboard RGB LEDs on the pin `D2` v
 - Install `Adafruit NeoPixel (by Adafruit)` <br><br>
 
 
-🚀 **Upload firmware**
-- Now you can click the **Upload button** in the IDE &nbsp;<img width="2%" src="images/UNO_Upload.png">
+🚀 **Upload firmware:**
+- Now you can click the **Upload button** in the IDE &nbsp;<img width="2%" src="images/UNO_Upload.png"> <br><br>
 
-After successful upload, the Arduino is ready to communicate with the Android app via USB.
+✔️ After successful upload, the Arduino is ready to communicate with the Android app via USB.
 
 <br>
 
