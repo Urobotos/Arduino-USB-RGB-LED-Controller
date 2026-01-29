@@ -4,7 +4,7 @@
     <img width="25%" src="images/pinout.jpeg">
 </p>
 
-# Arduino USB RGB LED Controller
+# <img width="3%" src="images/app_icon.png"> Arduino USB RGB LED Controller
 
 Android application + Arduino firmware for controlling **3× built-in RGB LEDs** on a 3rd party **Arduino Super Mini board** via USB.
 
