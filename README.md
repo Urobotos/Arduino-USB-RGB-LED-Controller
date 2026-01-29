@@ -85,7 +85,7 @@ The Android app communicates with the Arduino onboard RGB LEDs on the pin `D2` v
 ## ⚙️ Setup for Android App:
 You can either build the APK `manually` or open the project in `Android Studio`. <br><br>
 
-📂 Project structure
+📂 **Project structure:** <br>
 The Android project is located in: <br> 
 
 ```
