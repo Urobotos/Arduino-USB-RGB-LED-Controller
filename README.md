@@ -70,7 +70,7 @@ Upload the sketch **before** connecting the board to the Android app.
 
 ---
 
-## ⚙️ Setup for Android:
+## ⚙️ Setup for Android App:
 Lorem ipsum ...
 
 <br>
