@@ -50,7 +50,7 @@ The app allows you to set RGB color, global brightness, enable/disable individua
 ### Hardware
 
 * Arduino Nano SuperMini board with **3 built-in RGB LEDs**
-> ⚠️ Note: The board name "Super Mini" is commonly used by vendors and does not refer to an official Arduino product.
+> ⚠️ Note: The board name "Super Mini" is commonly used by 3rd party vendors and does not refer to an official Arduino product.
 
 <br>
 
