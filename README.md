@@ -122,7 +122,7 @@ gradlew assembleDebug
 ```
 
 <br>
-In the Android Studio (UI version of assembling APK):<br>
+Or in the Android Studio (UI version of assembling APK):<br>
 Click on the top menu ☰ <br>
 
 ```
