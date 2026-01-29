@@ -163,19 +163,19 @@ If the device is disconnected or permission is revoked, the app will update the 
 
 ---
 
-## 🖼 App Screenshots:
+## 📱 App Screenshots:
 
-USB Disconnected, USB Permission, USB Connected and Debug Console:
+USB Disconnected, USB Permission, USB Connected, Long press for one LED and Debug Console: <br><br>
 
 <p align="center" width="100%">
-    <img width="20%" src="images/screenshot_disconnected.jpg">
-    <img width="20%" src="images/screenshot_permission.jpg">
-    <img width="20%" src="images/screenshot_connected.jpg">
-    <img width="20%" src="images/screenshot_debug_console.jpg">
-    
+    <img width="18%" src="images/screenshot_disconnected.jpg">
+    <img width="18%" src="images/screenshot_permission.jpg">
+    <img width="18%%" src="images/screenshot_connected.jpg">
+    <img width="18%%" src="images/screenshot_long_press.jpg">
+    <img width="18%%" src="images/screenshot_debug_console.jpg"> 
 </p>
 
-<br>
+<br><br>
 
 ---
 
