@@ -163,11 +163,17 @@ If the device is disconnected or permission is revoked, the app will update the 
 
 ---
 
-## 🖼 Images
+## 🖼 App Screenshots:
 
-Board photos and app screenshots can be found in:
+USB Disconnected, USB permission, USB Connected, Debug Console:
 
-<img width="25%" src="images/app_screenshot">
+<p align="center" width="100%">
+    <img width="20%" src="images/screenshot_disconnected.jpg">
+    <img width="20%" src="images/screenshot_permission.jpg">
+    <img width="20%" src="images/screenshot_connected.jpg">
+    <img width="20%" src="images/screenshot_debug_console.jpg">
+    
+</p>
 
 <br>
 
