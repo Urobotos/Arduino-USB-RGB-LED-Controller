@@ -35,7 +35,7 @@ void loop() {
   while (Serial.available()) {
     char c = Serial.read();
 
-    if (c == '\r') return;   // ignore CR
+    if (c == '\r') return;
     if (c == '\n') {
       parseCommand(input);
       input = "";
