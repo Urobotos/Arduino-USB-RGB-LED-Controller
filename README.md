@@ -6,9 +6,9 @@
 
 # <img width="4%" src="images/app_icon_lower.png"> Arduino USB RGB LED Controller
 
-Android application + Arduino firmware for controlling **3× built-in RGB LEDs** on a 3rd party **Arduino Super Mini board** via USB.
+Android application + Arduino firmware for controlling **3× built-in RGB LEDs** on a 3rd party **Arduino Super Mini board** via OTG USB.
 
-The Android app communicates with the Arduino onboard RGB LEDs on the pin `D2` via USB OTG and sends RGB + brightness values in real time.
+The Android app communicates with the Arduino onboard RGB LEDs on the pin `D2` via USB and sends RGB + brightness values in real time.
 
 <br>
 
