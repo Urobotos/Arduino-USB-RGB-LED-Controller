@@ -72,9 +72,6 @@ In **Arduino IDE**, select:
 
 - Now you can click the **Upload button** in the IDE &nbsp;<img width="2%" src="images/UNO_Upload.png">&nbsp; to send the firmware to the Arduino board.
 
-
-
-
 <br>
 
 ---
