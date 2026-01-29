@@ -53,24 +53,30 @@ The Android app communicates with the Arduino onboard RGB LEDs on the pin `D2` v
 
 ## ⚙️ Setup for Arduino Firmware:
 
-📂 Download `.ino` file from path: `arduino/Arduino-USB-RGB-LED-Controller.ino` <br>
+📂 Download `.ino` file from:`arduino/Arduino-USB-RGB-LED-Controller.ino` <br>
 📂 Open downloaded `Arduino-USB-RGB-LED-Controller.ino` file in Arduino IDE <br><br>
 
-Connect your Arduino SuperMini board to the PC via USB <br><br>
+🔌 Connect your Arduino SuperMini board to the PC via USB <br><br>
 
-In **Arduino IDE**, select:
+**In Arduino IDE, select:**
 
 - **Board:** `Arduino Nano`
 - **Processor:** `ATmega328P (Old Bootloader)`
 - **Port:** (the COM port where the board appears)<br><br>
 
 
-- **Install Adafruit Neopixel Library to the IDE:**
-  - In the left column, click on the 📓 library icon,
-  - Type `neopixel` in the search field and search for: `Adafruit NeoPixel (from Adafruit)` ➜ Click the install button <br><br>
+📦 **Install required library:** <br>
+  &nbsp; &nbsp; &nbsp; (This project uses WS2812 / NeoPixel RGB LEDs)
+  
+- Open Library Manager (📓 icon on the left bar)
+- Search for: `Adafruit NeoPixel`
+- Install `Adafruit NeoPixel (by Adafruit)` <br><br>
 
 
-- Now you can click the **Upload button** in the IDE &nbsp;<img width="2%" src="images/UNO_Upload.png">&nbsp; to send the firmware to the Arduino board.
+🚀 **Upload firmware**
+- Now you can click the **Upload button** in the IDE &nbsp;<img width="2%" src="images/UNO_Upload.png">
+
+After successful upload, the Arduino is ready to communicate with the Android app via USB.
 
 <br>
 
