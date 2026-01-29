@@ -149,8 +149,6 @@ Or generate a release APK/AAB for distribution.
 
 ## 📄 License
 
-MIT License
-
 <a href="/LICENSE">MIT License</a>
 
 <br>
