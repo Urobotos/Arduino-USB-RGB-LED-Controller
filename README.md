@@ -154,7 +154,7 @@ Android Studio will build and install the app automatically.
 1. Connect the Arduino board to your Android device using a **USB OTG adapter/cable**
 2. Launch the app
 3. Grant USB permission when prompted
-4. The status text should show **USB: Connected**
+4. The status text in the app should show **USB: Connected**
 
 If the device is disconnected or permission is revoked, the app will update the status automatically.
 
