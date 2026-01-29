@@ -92,8 +92,9 @@ The Android project is located in: <br>
 android-app/
 ```
 
-*All Gradle commands must be executed inside this folder!* <br><br>
+*All Gradle commands must be executed inside this folder!*
 
+<br>
 
 ### 🛠️ Option A): Build APK using command line (Gradle)
 
