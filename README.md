@@ -67,7 +67,7 @@ In **Arduino IDE**, select:
 
 - **Install Adafruit Neopixel Library to the IDE:**
   - In the left column, click on the 📓 library icon,
-  - Type neopixel to search field and search for: `Adafruit NeoPixel (from Adafruit)` 
+  - Type `neopixel` in the search field and search for: `Adafruit NeoPixel (from Adafruit)` ➜ And click the install button
 
 
 
