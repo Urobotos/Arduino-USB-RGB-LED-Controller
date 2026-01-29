@@ -101,7 +101,7 @@ If the device is disconnected or permission is revoked, the app will update the 
 4. Long-press an LED tile to enter **solo mode**
 5. Press **SEND** to transmit values to the Arduino
 
-If brightness is set to 0% or all LEDs are disabled, the app will turn all LEDs off.
+If brightness is set to 0% or all color tiles are disabled, the app will turn all LEDs off.
 
 <br>
 
