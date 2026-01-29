@@ -83,7 +83,7 @@ The Android app communicates with the Arduino onboard RGB LEDs on the pin `D2` v
 ---
 
 ## ⚙️ Setup for Android App:
-You can either build the APK manually or open the project in `Android Studio`. <br><br>
+You can either build the APK `manually` or open the project in `Android Studio`. <br><br>
 
 📂 Project structure
 The Android project is located in: <br> 
@@ -95,43 +95,49 @@ android-app/
 *All Gradle commands must be executed inside this folder!* <br><br>
 
 
-### 🛠️ Option A) — Build APK using command line (Gradle)
+### 🛠️ Option A): Build APK using command line (Gradle)
 
-1️⃣ **Open terminal / PowerShell** <br>
+1️⃣ **Open terminal / PowerShell:** <br>
 Navigate to the project root and then into android-app: 
 
 ```
 cd android-app
 ```
 
-2️⃣ **Build debug APK** <br>
+<br>
+
+2️⃣ **Build debug APK:**  <br>
 Run: 
 
 ```
 ./gradlew assembleDebug
 ```
 
+<br>
 On Windows, you can also use:
 
 ```
 gradlew assembleDebug
 ```
 
-3️⃣ **Locate the APK** <br>
+<br>
+
+3️⃣ **Locate the APK:** <br>
 After a successful build, the APK will be created at:
 
 ```
 android-app/app/build/outputs/apk/debug/app-debug.apk
 ```
 
-You can manually install this APK on your Android phone. <br><br>
+<br>
+You can manually install this APK on your Android phone. <br>
 
 ⚠️ *(Note: You may need to enable "Install unknown apps" on your Android device)*
 
 
 <br><br>
 
-### 🧩 Option B) — Open project in Android Studio (recommended)
+### 🧩 Option B): Open project in Android Studio (recommended)
 
 1️⃣ Open Android Studio <br>
 2️⃣ Select Open <br>
