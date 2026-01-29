@@ -203,16 +203,6 @@ If brightness is set to 0% or all color tiles are disabled, the app will turn al
 * USB communication handled via custom `UsbSerialManager`
 * No third-party analytics or advertising libraries
 
-### Build
-
-You can build the app using **Android Studio**:
-
-```bash
-./gradlew assembleDebug
-```
-
-Or generate a release APK/AAB for distribution.
-
 <br>
 
 ---
