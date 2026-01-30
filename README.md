@@ -97,6 +97,7 @@ The Android project is located in: <br>
 android-app/
 ```
 
+<br>
 
 ### Option A): Install prepared release APK (recommended):
 
