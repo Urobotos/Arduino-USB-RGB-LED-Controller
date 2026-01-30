@@ -116,7 +116,6 @@ Once installed, you can launch it from your app drawer.
 
 <br>
 
----
 
 ### 🛠️ Option B): Build APK using command line (Gradle)
 
@@ -185,6 +184,8 @@ Android Studio will build and install the app automatically.
 
 
 <br>
+
+---
 
 ## 🔌 USB Connection of Android to Arduino board:
 
