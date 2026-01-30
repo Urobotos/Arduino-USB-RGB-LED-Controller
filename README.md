@@ -17,9 +17,10 @@ The Android app communicates with the Arduino via USB and controls the onboard R
 ## Project structure
 
 - android-app/ — Android application (Jetpack Compose)
+- releases — Final Android APK package to install on your phone, link here: [GitHub Releases page](https://github.com/Urobotos/Arduino-USB-RGB-LED-Controller/releases)
 - arduino/ — Arduino firmware (.ino) for SuperMini / Nano-compatible board
 - images/ — photos and screenshots
-- Releases — Final APK package to install on your phone, link here: [GitHub Releases page](https://github.com/Urobotos/Arduino-USB-RGB-LED-Controller/releases)
+
 
 <br>
 
