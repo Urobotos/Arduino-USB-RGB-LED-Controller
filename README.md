@@ -233,7 +233,7 @@ If brightness is set to 0% or all color tiles are disabled, the app will turn al
 
 ## 📦 Distribution
 
-* Planned for **GitHub Releases**
+* **GitHub Releases**
 * Planned for **Google Play Store** (free, no ads)
 
 <br>
