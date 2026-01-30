@@ -185,11 +185,11 @@ If the device is disconnected or permission is revoked, the app will update the 
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Debug Console: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 </p>
 <p align="center" width="100%">
-    <img width="20%" src="images/screenshot_disconnected.jpg">
-    <img width="20%" src="images/screenshot_permission.jpg">
-    <img width="20%" src="images/screenshot_connected.jpg">
-    <img width="20%" src="images/screenshot_long_press.jpg">
-    <img width="20%" src="images/screenshot_debug_console.jpg">
+    <img width="19%" src="images/screenshot_disconnected.jpg">
+    <img width="19%" src="images/screenshot_permission.jpg">
+    <img width="19%" src="images/screenshot_connected.jpg">
+    <img width="19%" src="images/screenshot_long_press.jpg">
+    <img width="19%" src="images/screenshot_debug_console.jpg">
 </p>
 
 <br><br>
