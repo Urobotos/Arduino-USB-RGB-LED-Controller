@@ -97,11 +97,9 @@ The Android project is located in: <br>
 android-app/
 ```
 
-*All Gradle commands must be executed inside this folder!*
-
 <br>
 
-### Option A): Install prepared release APK (recommended)
+### Option A): Install prepared release APK (recommended):
 
 1️⃣ Download the latest release APK from the [GitHub Releases page](https://github.com/Urobotos/Arduino-USB-RGB-LED-Controller/releases) <br>
 Look for the asset named similar to `arduino-usb-rgb-led-controller-v1.0.0.apk`.<br><br>
@@ -118,18 +116,50 @@ Once installed, you can launch it from your app drawer.
 <br>
 
 
-### Option B): Build APK using command line (Gradle)
+### Option B): Build APK using command line (Gradle):
 
-1️⃣ **Open terminal / PowerShell:** <br>
-Navigate to the project root and then into android-app: 
-
-```
-cd android-app
-```
+This option is intended for developers who want to build the APK themselves
+from source code using Gradle.
 
 <br>
 
-2️⃣ **Build debug APK:**  <br>
+#### 1️⃣ Download the source code
+
+You can either download the repository as a ZIP file from GitHub,
+or clone it using Git.
+
+**Using Git (recommended):**
+
+```
+git clone https://github.com/Urobotos/Arduino-USB-RGB-LED-Controller.git
+```
+
+ℹ️ On Linux and macOS, Git is usually installed by default. br>
+On Windows, you may need to install Git first: https://git-scm.com/
+
+<br>
+
+#### 2️⃣ Navigate to the Android project directory
+
+After cloning the repository, move into the `android-app` directory:
+
+```
+cd Arduino-USB-RGB-LED-Controller/android-app
+```
+
+*⚠️ All Gradle commands must be executed inside the `android-app` folder!*
+
+<br>
+
+#### 3️⃣ Build debug APK
+
+Run the Gradle wrapper to build a debug APK:
+
+
+
+
+
+<br>
 Run: 
 
 ```
@@ -162,7 +192,7 @@ Move the `app-debug.apk` to your phone (via Google Drive etc.) and open it via `
 
 <br>
 
-### Option C): Open project in Android Studio
+### Option C): Open project in Android Studio:
 
 *(Direct installation of the application using Android Studio on a phone with a connected USB cable)*
 
