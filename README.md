@@ -84,7 +84,7 @@ The Android app communicates with the Arduino via USB and controls the onboard R
 ---
 
 ## ⚙️ Setup for Android App:
-You can either build the APK `manually` or open the project in `Android Studio`. <br><br>
+You can install the prepared release APK directly, build the APK manually, or open the project in Android Studio. <br><br>
 
 📂 **Project structure:** <br>
 The Android project is located in: <br> 
@@ -97,7 +97,28 @@ android-app/
 
 <br>
 
-### 🛠️ Option A): Build APK using command line (Gradle)
+### 🛠️ Option A): Install prepared release APK (recommended)
+
+1️⃣ Download the latest release APK from the [GitHub Releases page](https://github.com/Urobotos/Arduino-USB-RGB-LED-Controller/releases). <br>
+Look for the asset named similar to `arduino-usb-rgb-led-controller-v1.0.0.apk`.<br><br>
+
+2️⃣ Transfer the APK file to your Android phone.<br>
+You can use Google Drive, email, USB cable, or any file transfer method.<br><br>
+
+3️⃣ On your Android phone, open the APK file using a file manager app.<br>
+You may be prompted to allow installation of apps from unknown sources — accept and confirm.<br><br>
+
+4️⃣ Install the app.<br>
+Once installed, you can launch it from your app drawer.
+
+<br>
+
+---
+
+
+
+
+### 🛠️ Option B): Build APK using command line (Gradle)
 
 1️⃣ **Open terminal / PowerShell:** <br>
 Navigate to the project root and then into android-app: 
@@ -148,7 +169,7 @@ Move the `app-debug.apk` to your phone (via Google Drive etc.) and open it via `
 
 <br>
 
-### 🛠️ Option B): Open project in Android Studio (recommended)
+### 🛠️ Option C): Open project in Android Studio
 
 *(Direct installation of the application using Android Studio on a phone with a connected USB cable)*
 
