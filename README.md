@@ -97,20 +97,19 @@ The Android project is located in: <br>
 android-app/
 ```
 
-<br>
 
 ### Option A): Install prepared release APK (recommended):
 
 1️⃣ Download the latest release APK from the [GitHub Releases page](https://github.com/Urobotos/Arduino-USB-RGB-LED-Controller/releases) <br>
 Look for the asset named similar to `arduino-usb-rgb-led-controller-v1.0.0.apk`.<br><br>
 
-2️⃣ Transfer the APK file to your Android phone.<br>
+2️⃣ Transfer the APK file to your Android phone <br>
 You can use `Google Drive`, `email`, `USB cable`, or any file transfer method.<br><br>
 
-3️⃣ On your Android phone, open the APK file using a `File manager` app.<br>
+3️⃣ On your Android phone, open the APK file using a `File manager` app <br>
 You may be prompted to allow installation of apps from unknown sources — accept and confirm.<br><br>
 
-4️⃣ Install the app.<br>
+4️⃣ Install the app <br>
 Once installed, you can launch it from your app drawer.
 
 <br>
@@ -123,10 +122,12 @@ from source code using Gradle.
 
 <br>
 
-#### 1️⃣ Download the source code
+#### 1️⃣ Download the source code:
 
-You can either download the repository as a ZIP file from GitHub,
-or clone it using Git.
+*(You can either download the repository as a ZIP file from GitHub,
+or clone it using Git).*
+
+<br>
 
 **Using Git (recommended):**
 
@@ -134,12 +135,14 @@ or clone it using Git.
 git clone https://github.com/Urobotos/Arduino-USB-RGB-LED-Controller.git
 ```
 
-ℹ️ On Linux and macOS, Git is usually installed by default. br>
-On Windows, you may need to install Git first: https://git-scm.com/
+<br>
+
+*On Linux and macOS, Git is usually installed by default. <br>
+On Windows, you may need to install Git first: https://git-scm.com/*
 
 <br>
 
-#### 2️⃣ Navigate to the Android project directory
+#### 2️⃣ Navigate to the Android project directory:
 
 After cloning the repository, move into the `android-app` directory:
 
@@ -147,27 +150,21 @@ After cloning the repository, move into the `android-app` directory:
 cd Arduino-USB-RGB-LED-Controller/android-app
 ```
 
+<br>
+
 *⚠️ All Gradle commands must be executed inside the `android-app` folder!*
 
 <br>
 
-#### 3️⃣ Build debug APK
+#### 3️⃣ Build debug APK:
 
 Run the Gradle wrapper to build a debug APK:
-
-
-
-
-
-<br>
-Run: 
 
 ```
 ./gradlew assembleDebug
 ```
 
-<br>
-On Windows, you can also use:
+On Windows (PowerShell or Command Prompt), use:
 
 ```
 .\gradlew assembleDebug
@@ -175,7 +172,12 @@ On Windows, you can also use:
 
 <br>
 
-3️⃣ **Locate the APK:** <br>
+*(Gradle will download required dependencies and build the application).*
+
+<br>
+
+#### 4️⃣ Locate the generated APK:
+
 After a successful build, the APK will be created at:
 
 ```
@@ -184,13 +186,20 @@ android-app/app/build/outputs/apk/debug/app-debug.apk
 
 <br>
 
-4️⃣ **After that, You can manually install this APK on your Android phone:** <br>
-Move the `app-debug.apk` to your phone (via Google Drive etc.) and open it via `File Manager`, you will be asked to allow the installation of 3rd party apps, confirm that. <br>
+#### 5️⃣ Install the APK on your Android phone:
+1. Transfer `app-debug.apk` to your Android phone (Google Drive, USB cable, email, etc.)
 
-*(permission may vary depending on phone and Android version)*
+2. Open the file using a `File manager` app
 
+3. Allow installation from unknown sources if prompted
+
+4. Install the application
+
+
+*(Permission dialogs and wording may vary depending on Android version and device manufacturer)*
 
 <br>
+
 
 ### Option C): Open project in Android Studio:
 
