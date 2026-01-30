@@ -123,10 +123,10 @@ On Windows, you can also use:
 ```
 
 <br>
-Or in the Android Studio (UI version of assembling APK):<br>
-Click on the top menu ☰ <br>
+Or in the Android Studio (UI version of assembling APK): <br>
 
 ```
+Click the menu symbol ☰ at the top:
 Select Build ➜ Generate App Bundles or APKs ➜ Generate APKs
 ```
 
@@ -140,9 +140,11 @@ android-app/app/build/outputs/apk/debug/app-debug.apk
 ```
 
 <br>
-After that, You can manually install this APK on your Android phone. <br>
 
-*(⚠️ Note: You may need to enable "Install unknown apps" on your Android device)*
+4️⃣ **After that, You can manually install this APK on your Android phone:** <br>
+Move the app to your phone (Google Drive etc.) and open it via File Manager, you will be asked to allow the installation of 3rd party apps, confirm that<br>
+
+*(permission may vary depending on phone and Android version)*
 
 <br>
 
