@@ -144,14 +144,6 @@ On Windows, you can also use:
 ```
 
 <br>
-Or in the Android Studio (UI version of assembling APK): <br>
-
-```
-Click the menu symbol ☰ at the top:
-Select Build ➜ Generate App Bundles or APKs ➜ Generate APKs
-```
-
-<br>
 
 3️⃣ **Locate the APK:** <br>
 After a successful build, the APK will be created at:
