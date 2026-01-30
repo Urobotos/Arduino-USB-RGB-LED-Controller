@@ -53,7 +53,7 @@ The Android app communicates with the Arduino via USB and controls the onboard R
 
 ## ⚙️ Setup for Arduino Firmware:
 
-📂 Download <a href="/arduino/Arduino-USB-RGB-LED-Controller.ino">Arduino-USB-RGB-LED-Controller.ino</a> file from: `arduino/Arduino-USB-RGB-LED-Controller.ino` <br>
+📂 Download <a href="/arduino/Arduino-USB-RGB-LED-Controller.ino">Arduino-USB-RGB-LED-Controller.ino</a> file from `arduino/` directory <br>
 
 📂 Open downloaded `Arduino-USB-RGB-LED-Controller.ino` file in Arduino IDE <br><br>
 
