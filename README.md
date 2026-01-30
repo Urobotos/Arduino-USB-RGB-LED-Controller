@@ -142,7 +142,7 @@ android-app/app/build/outputs/apk/debug/app-debug.apk
 <br>
 
 4️⃣ **After that, You can manually install this APK on your Android phone:** <br>
-Move the app to your phone (Google Drive etc.) and open it via File Manager, you will be asked to allow the installation of 3rd party apps, confirm that<br>
+Move the `app-debug.apk` to your phone (via Google Drive etc.) and open it via `File Manager`, you will be asked to allow the installation of 3rd party apps, confirm that. <br>
 
 *(permission may vary depending on phone and Android version)*
 
