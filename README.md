@@ -8,7 +8,7 @@
 
 Android application + Arduino firmware for controlling **3× built-in RGB LEDs** on a 3rd party **Arduino Super Mini board** via OTG USB.
 
-The Android app communicates with the Arduino onboard RGB LEDs on the pin `D2` via USB and sends RGB + brightness values in real time.
+The Android app communicates with the Arduino via USB and controls the onboard RGB LEDs connected to pin D2, sending RGB and brightness values in real time.
 
 <br>
 
@@ -17,7 +17,7 @@ The Android app communicates with the Arduino onboard RGB LEDs on the pin `D2` v
 ## Project structure
 
 - android-app/ — Android application (Jetpack Compose)
-- arduino/ — Arduino firmware for SuperMini / Nano-compatible board
+- arduino/ — Arduino firmware (.ino) for SuperMini / Nano-compatible board
 - images/ — photos and screenshots
 
 <br>
@@ -41,7 +41,7 @@ The Android app communicates with the Arduino onboard RGB LEDs on the pin `D2` v
 ## 📱 Requirements
 
 * Android device with **USB OTG support**
-* **USB OTG adapter or OTG cable** (required)
+* **USB OTG adapter or OTG cable (REQUIRED)**
 * Android 8.0 (API 26) or newer recommended
 * Arduino connected via USB
 * Arduino SuperMini board with **3 built-in RGB LEDs**
@@ -77,6 +77,7 @@ The Android app communicates with the Arduino onboard RGB LEDs on the pin `D2` v
 - Now you can click the **Upload button** in the IDE &nbsp;<img width="2%" src="images/UNO_Upload.png"> <br><br>
 
 ✔️ After successful upload, the Arduino is ready to communicate with the Android app via USB.
+ℹ️ If upload fails, double-check that "Old Bootloader" is selected.
 
 <br>
 
@@ -118,7 +119,7 @@ Run:
 On Windows, you can also use:
 
 ```
-gradlew assembleDebug
+.\gradlew assembleDebug
 ```
 
 <br>
@@ -186,9 +187,9 @@ If the device is disconnected or permission is revoked, the app will update the 
 <p align="center" width="100%">
     <img width="18%" src="images/screenshot_disconnected.jpg">
     <img width="18%" src="images/screenshot_permission.jpg">
-    <img width="18%%" src="images/screenshot_connected.jpg">
-    <img width="18%%" src="images/screenshot_long_press.jpg">
-    <img width="18%%" src="images/screenshot_debug_console.jpg">
+    <img width="18%" src="images/screenshot_connected.jpg">
+    <img width="18%" src="images/screenshot_long_press.jpg">
+    <img width="18%" src="images/screenshot_debug_console.jpg">
 </p>
 
 <br><br>
