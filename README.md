@@ -58,7 +58,7 @@ The Android app communicates with the Arduino via USB and controls the onboard R
 
 📂 Open downloaded `Arduino-USB-RGB-LED-Controller.ino` file in Arduino IDE <br><br>
 
-🔌 Connect your Arduino SuperMini board to the PC via USB <br><br>
+🔌 Connect your Arduino SuperMini board to the PC via USB cable <br><br>
 
 **In Arduino IDE, select:**
 
