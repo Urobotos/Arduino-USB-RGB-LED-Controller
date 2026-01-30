@@ -79,12 +79,13 @@ The Android app communicates with the Arduino via USB and controls the onboard R
 ✔️ After successful upload, the Arduino is ready to communicate with the Android app via USB. <br>
 ℹ️ If upload fails, double-check that "Old Bootloader" is selected.
 
+
 <br>
 
 ---
 
 ## ⚙️ Setup for Android App:
-You can install the prepared release APK directly, build the APK manually, or open the project in Android Studio. <br><br>
+You can install the prepared release APK directly, build the APK manually, or open and build the project in Android Studio. <br><br>
 
 📂 **Project structure:** <br>
 The Android project is located in: <br> 
@@ -99,13 +100,13 @@ android-app/
 
 ### 🛠️ Option A): Install prepared release APK (recommended)
 
-1️⃣ Download the latest release APK from the [GitHub Releases page](https://github.com/Urobotos/Arduino-USB-RGB-LED-Controller/releases). <br>
+1️⃣ Download the latest release APK from the [GitHub Releases page](https://github.com/Urobotos/Arduino-USB-RGB-LED-Controller/releases) <br>
 Look for the asset named similar to `arduino-usb-rgb-led-controller-v1.0.0.apk`.<br><br>
 
 2️⃣ Transfer the APK file to your Android phone.<br>
-You can use Google Drive, email, USB cable, or any file transfer method.<br><br>
+You can use `Google Drive`, `email`, `USB cable`, or any file transfer method.<br><br>
 
-3️⃣ On your Android phone, open the APK file using a file manager app.<br>
+3️⃣ On your Android phone, open the APK file using a `File manager` app.<br>
 You may be prompted to allow installation of apps from unknown sources — accept and confirm.<br><br>
 
 4️⃣ Install the app.<br>
@@ -114,9 +115,6 @@ Once installed, you can launch it from your app drawer.
 <br>
 
 ---
-
-
-
 
 ### 🛠️ Option B): Build APK using command line (Gradle)
 
@@ -167,6 +165,7 @@ Move the `app-debug.apk` to your phone (via Google Drive etc.) and open it via `
 
 *(permission may vary depending on phone and Android version)*
 
+
 <br>
 
 ### 🛠️ Option C): Open project in Android Studio
@@ -181,6 +180,7 @@ Move the `app-debug.apk` to your phone (via Google Drive etc.) and open it via `
 6️⃣ Click Run ▶️ <br>
 
 Android Studio will build and install the app automatically.
+
 
 <br>
 
