@@ -26,6 +26,22 @@ The Android app communicates with the Arduino via USB and controls the onboard R
 
 ---
 
+### Jump Navigation:
+
+- ⚙️ [Setup for Arduino Firmware:](#%EF%B8%8F-setup-for-arduino-firmware)
+- ⚙️ [Setup_for_Android_App:](#%EF%B8%8F-setup-for-android-app)
+- 🔌 [USB Connection of Android to Arduino board:](#-usb-connection-of-android-to-arduino-board)
+- 📱 [App Screenshots:](#-app-screenshots)
+- 🚀 [Usage](#-usage)
+- 🐞 [Debug Console](#-debug-console)
+- 🛠 [Development](#-development)
+- 📄 [License](#-license)
+- 🙌 [Acknowledgements](#-acknowledgements)
+
+<br>
+
+---
+
 ## ✨ Features
 
 * 🎨 RGB color control (Red / Green / Blue sliders)
