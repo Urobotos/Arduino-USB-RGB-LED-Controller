@@ -80,7 +80,7 @@ The Android app communicates with the Arduino via USB and controls the onboard R
 - Now you can click the **Upload button** &nbsp;<img width="25px" src="images/UNO_Upload.png">&nbsp; in the IDE <br><br>
 
 ✔️ After successful upload, the Arduino is ready to communicate with the Android app via USB. <br>
-ℹ️ If upload fails, double-check that "Old Bootloader" is selected.
+ℹ️ If upload fails, double-check that `Old Bootloader` is selected.
 
 
 <br>
