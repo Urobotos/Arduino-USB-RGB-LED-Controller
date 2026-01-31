@@ -77,7 +77,7 @@ The Android app communicates with the Arduino via USB and controls the onboard R
 
 
 🚀 **Upload firmware:**
-- Now you can click the **Upload button** in the IDE &nbsp;<img width="2%" src="images/UNO_Upload.png"> <br><br>
+- Now you can click the **Upload button** in the IDE &nbsp;<img width="25px" src="images/UNO_Upload.png"> <br><br>
 
 ✔️ After successful upload, the Arduino is ready to communicate with the Android app via USB. <br>
 ℹ️ If upload fails, double-check that "Old Bootloader" is selected.
