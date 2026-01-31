@@ -119,14 +119,15 @@ Once installed, you can launch it from your app drawer.
 ### Option B): Build APK using command line (Gradle):
 
 This option is intended for developers who want to build the APK themselves
-from source code using Gradle.
+from source code using Gradle. <br>
+*(To run Gradle, JDK (Java Development Kit) must be installed on your system).*
 
 <br>
 
 #### 1️⃣ Download the source code:
 
 *(You can either download the repository as a ZIP file from GitHub,
-or clone it using Git).*
+or clone it using Git).* <br>
 
 <br>
 
@@ -138,8 +139,8 @@ git clone https://github.com/Urobotos/Arduino-USB-RGB-LED-Controller.git
 
 <br>
 
-*On Linux and macOS, Git is usually installed by default. <br>
-On Windows, you may need to install Git first: https://git-scm.com/*
+*On Linux and macOS, `Git` is usually installed by default. <br>
+On Windows, you may need to install `Git` first: https://git-scm.com/* <br>
 
 <br>
 
