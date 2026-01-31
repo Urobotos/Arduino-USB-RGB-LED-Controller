@@ -205,7 +205,7 @@ android-app/app/build/outputs/apk/debug/app-debug.apk
 
 ### Option C): Open project in Android Studio:
 
-*(Direct installation of the application using Android Studio on a phone with a connected USB cable)*
+*(Direct installation of the application using a USB cable from Android Studio to the phone)*
 
 1️⃣ Open Android Studio <br>
 2️⃣ Select Open and choose the `android-app` folder <br>
