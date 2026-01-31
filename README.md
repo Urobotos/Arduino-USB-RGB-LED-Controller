@@ -120,7 +120,8 @@ Once installed, you can launch it from your app drawer.
 
 This option is intended for developers who want to build the APK themselves
 from source code using Gradle. <br>
-*(To run Gradle, JDK (Java Development Kit) must be installed on your system).*
+
+*(To run `Gradle commands`, only the `JDK (Java Development Kit)` must be installed on your system, Gradle will download the other required dependencies itself and build the application).*
 
 <br>
 
@@ -171,10 +172,6 @@ On Windows (PowerShell or Command Prompt), use:
 ```
 .\gradlew assembleDebug
 ```
-
-<br>
-
-*(Gradle will download required dependencies and build the application).*
 
 <br>
 
