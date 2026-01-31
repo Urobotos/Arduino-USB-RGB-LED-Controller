@@ -211,7 +211,7 @@ android-app/app/build/outputs/apk/debug/app-debug.apk
 2️⃣ Select Open and choose the `android-app` folder <br>
 3️⃣ Wait for Gradle sync to finish <br>
 4️⃣ Connect your Android phone via USB (with USB debugging enabled) <br>
-5️⃣ Check in `LogCat` (cat icon in the left panel) that your phone is connected to Android Studio <br>
+5️⃣ Check in `LogCat` (cat icon 🐱 in the left panel) that your phone is connected to Android Studio <br>
 6️⃣ Click Run ▶️ <br>
 
 Android Studio will build and install the app automatically.
