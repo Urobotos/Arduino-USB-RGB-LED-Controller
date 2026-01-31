@@ -125,7 +125,7 @@ from source code using Gradle. <br>
 
 <br>
 
-#### 1️⃣ Download the source code (android-app project that includes Gradle wrapper):
+#### 1️⃣ Download the source code (all project that includes Gradle wrapper):
 
 *(You can either download the repository as a ZIP file from GitHub,
 or clone it using Git).* <br>
