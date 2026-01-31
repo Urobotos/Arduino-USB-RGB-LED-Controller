@@ -237,9 +237,9 @@ If the device is disconnected or permission is revoked, the app will update the 
 
 <br>
 <p align="center" width="100%" text="strong">
-    &nbsp; USB Disconnected: &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp; USB Disconnected: &nbsp; &nbsp;&nbsp;
     &nbsp;&nbsp; USB Permission: &nbsp; &nbsp;
-    &nbsp;&nbsp; USB Connected: &nbsp;
+    &nbsp;&nbsp; USB Connected: &nbsp; &nbsp; &nbsp;
     &nbsp; &nbsp; &nbsp; One LED control: 
     &nbsp; &nbsp; &nbsp; Debug Console: &nbsp; &nbsp;
 </p>
