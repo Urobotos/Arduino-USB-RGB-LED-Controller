@@ -35,6 +35,7 @@ The Android app communicates with the Arduino via USB and controls the onboard R
 - 🚀 [Usage](#-usage)
 - 🐞 [Debug Console](#-debug-console)
 - 🛠 [Development](#-development)
+- 📦 [Distribution](#-distribution)
 - 📄 [License](#-license)
 - 🙌 [Acknowledgements](#-acknowledgements)
 
