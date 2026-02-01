@@ -29,7 +29,7 @@
             android:name=".usb.UsbPermissionReceiver"
             android:exported="false">
             <intent-filter>
-                <action android:name="com.example.arduinosuperminirgbledcontrolviausb.USB_PERMISSION" />
+                <action android:name="com.urobotos.arduino.usb.rgbledcontroller.USB_PERMISSION" />
             </intent-filter>
         </receiver>
 

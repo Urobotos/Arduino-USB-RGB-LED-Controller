@@ -4,17 +4,17 @@ plugins {
 }
 
 android {
-    namespace = "com.example.arduinosuperminirgbledcontrolviausb"
+    namespace = "com.urobotos.arduino.usb.rgbledcontroller"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "com.example.arduinosuperminirgbledcontrolviausb"
-        minSdk = 24
-        targetSdk = 36
+        applicationId = "com.urobotos.arduino.usb.rgbledcontroller"
+        minSdk = 26
+        targetSdk = 34
         versionCode = 1
-        versionName = "1.0"
+        versionName = "1.0.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
