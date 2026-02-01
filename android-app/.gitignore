@@ -4,6 +4,8 @@
 .gradle/
 build/
 */build/
+app/release/
+**/release/
 
 # ======================
 # Local config
