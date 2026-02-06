@@ -125,7 +125,7 @@ android-app/
   </summary>
 
 1️⃣ Download the latest release APK from the [GitHub Releases page](https://github.com/Urobotos/Arduino-USB-RGB-LED-Controller/releases) <br>
-Look for the asset named similar to `arduino-usb-rgb-led-controller-v1.0.0.apk`.<br><br>
+On the Releases page, look for the asset named similar to `arduino-usb-rgb-led-controller-v1.0.0.apk`.<br><br>
 
 2️⃣ Transfer the APK file to your Android phone <br>
 You can use `Google Drive`, `email`, `USB cable`, or any file transfer method.<br><br>
