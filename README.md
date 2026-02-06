@@ -117,7 +117,12 @@ android-app/
 
 <br>
 
+<details open> 
+  <summary>
+
 ### Option A): Install prepared release APK (recommended):
+
+  </summary>
 
 1️⃣ Download the latest release APK from the [GitHub Releases page](https://github.com/Urobotos/Arduino-USB-RGB-LED-Controller/releases) <br>
 Look for the asset named similar to `arduino-usb-rgb-led-controller-v1.0.0.apk`.<br><br>
@@ -131,10 +136,16 @@ You may be prompted to allow installation of apps from unknown sources — accep
 4️⃣ Install the app <br>
 Once installed, you can launch it from your app drawer.
 
+</details>
+
 <br>
 
+<details> 
+  <summary>
 
 ### Option B): Build APK using command line (Gradle):
+
+  </summary>
 
 This option is intended for developers who want to build the APK themselves
 from source code using Gradle. <br>
@@ -215,11 +226,15 @@ android-app/app/build/outputs/apk/debug/app-debug.apk
 
 *(Permission dialogs and wording may vary depending on Android version and device manufacturer)*
 
+</details>
 <br>
 
-
+<details> 
+  <summary>
+    
 ### Option C): Open project in Android Studio:
 
+  </summary>
 *(Direct installation of the application using a USB cable from Android Studio to the phone)*
 
 1️⃣ Open Android Studio <br>
@@ -231,7 +246,7 @@ android-app/app/build/outputs/apk/debug/app-debug.apk
 
 Android Studio will build and install the app automatically.
 
-
+</details>
 <br>
 
 ---
